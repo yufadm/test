@@ -60,7 +60,7 @@
       <MultiGeometry>
         <Polygon>
           <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
-          <outerBoundaryIs><LinearRing><coordinates> 179.9999955080001,37.47325169700008,0 179.9999955080001,82.08726920800007,0 18.22618731400007,82.08726920800007,0 18.22618731400007,37.47325169700008,0 179.9999955080001,37.47325169700008,0</coordinates></LinearRing></outerBoundaryIs>
+          <outerBoundaryIs><LinearRing><coordinates> 159.9999955080001,37.47325169700008,0 179.9999955080001,82.08726920800007,0 18.22618731400007,82.08726920800007,0 18.22618731400007,37.47325169700008,0 179.9999955080001,37.47325169700008,0</coordinates></LinearRing></outerBoundaryIs>
         </Polygon>
       </MultiGeometry>
     </Placemark>
